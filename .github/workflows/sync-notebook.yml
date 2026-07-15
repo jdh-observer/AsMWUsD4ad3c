@@ -1,0 +1,86 @@
+name: Notebook & Markdown syncing on commit
+
+on:
+  push:
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files and sync notebooks
+        shell: bash
+        run: |
+          # checking if article.ipynb exists; if not, exiting with error.
+          if [ ! -f "article.ipynb" ]; then
+            echo "Error: article.ipynb does not exist. Exiting."
+            exit 1
+          fi
+
+          # Check if article.md exists
+          if [ -f "article.md" ]; then
+            MD_EXISTS=true
+          else
+            MD_EXISTS=false
+          fi
+
+          # Save the before and after commit hashes
+          BEFORE_COMMIT="${{ github.event.before }}"
+          AFTER_COMMIT="${{ github.event.after }}"
+
+          # Determine changed files based on commit history.
+          if [ "$BEFORE_COMMIT" = "0000000000000000000000000000000000000000" ]; then
+            echo "No previous commit found. Using last commit for file changes."
+            CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r HEAD)
+          else
+            if ! git rev-parse "$BEFORE_COMMIT" >/dev/null 2>&1; then
+              echo "Before commit not found. Using last commit for file changes."
+              CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r HEAD)
+            else
+              CHANGED_FILES=$(git diff --name-only "$BEFORE_COMMIT" "$AFTER_COMMIT")
+            fi
+          fi
+
+          echo "Changed files: $CHANGED_FILES"
+
+          # Check which target files have changed.
+          IPYNB_CHANGED=$(echo "$CHANGED_FILES" | grep -c '^article\.ipynb$' || true)
+          MD_CHANGED=$(echo "$CHANGED_FILES" | grep -c '^article\.md$' || true)
+
+          if [ "$IPYNB_CHANGED" -gt 0 ] && [ "$MD_CHANGED" -gt 0 ]; then
+            echo "Error: Both article.ipynb and article.md have changed. Revert changes to one of them to perform synchronization."
+            exit 1
+          elif [ "$IPYNB_CHANGED" -gt 0 ]; then
+            echo "article.ipynb has changed."
+            if [ "$MD_EXISTS" = false ]; then
+              echo "article.md does not exist. Creating article.md from article.ipynb..."
+              pip install jupytext || pip install jupytext --break-system-packages
+              jupytext --to markdown article.ipynb
+              echo "article.md created successfully."
+            else
+              echo "article.md exists. Converting article.ipynb to markdown to synchronize changes..."
+              pip install jupytext || pip install jupytext --break-system-packages
+              jupytext --to markdown article.ipynb
+              echo "Synchronization complete for article.md."
+            fi
+          elif [ "$MD_CHANGED" -gt 0 ]; then
+            echo "article.md has changed. Synchronizing article.ipynb with the updated markdown..."
+            pip install jupytext || pip install jupytext --break-system-packages
+            jupytext --set-formats ipynb,md article.ipynb
+            jupytext --sync article.ipynb
+            echo "Synchronization complete for article.ipynb."
+          else
+            echo "No target file changes detected."
+          fi
+
+      - name: Committing changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Automated commit
+          branch: ${{ github.ref }}
+          create_branch: false
