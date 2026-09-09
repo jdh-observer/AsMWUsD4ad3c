@@ -28,7 +28,8 @@ University of Reading
 
 ```python tags=["cover"]
 from IPython.display import VimeoVideo
-VimeoVideo("1065468810", h="da976f44be", width=640)
+display(VimeoVideo("1065468810?h=da976f44be", width=640))
+#url here https://vimeo.com/1065468810/da976f44be
 ```
 
 <!-- #region tags=["keywords"] -->
@@ -158,27 +159,6 @@ Importantly, the digital nature of the video essay contests Jacques Derrida's no
 <!-- #region citation-manager={"citations": {"597e9": [{"id": "88888888/MITTELL2019", "source": "zotero"}], "a402c": [{"id": "88888888/MITTELL2019", "source": "zotero"}], "cb90e": [{"id": "88888888/KEATHLEY2011", "source": "zotero"}, {"id": "88888888/KEATHLEY2016", "source": "zotero"}]}} -->
 At its core, videographic criticism represents a shift in scholarly practice—a means of articulating complex ideas through the medium of moving images and sound.<cite id="597e9"><a href="#zotero%7C88888888%2FMITTELL2019">(Mittell, 2019)</a></cite> As Christian Keathley argues, such criticism must navigate both explanatory and poetic registers, aiming to produce a "knowledge effect": an epistemological outcome derived not from argument alone, but from the interplay of image, sound, and viewer perception.<cite id="cb90e"><a href="#zotero%7C88888888%2FKEATHLEY2011">(Keathley, 2011, 2016)</a></cite> The act of importing archival materials into a video editing environment initiates a profound transformation. Once within this digital space, these materials cease to function solely as historical evidence; they become malleable, reinterpretable elements within a new, audiovisual archive.\ This editorial process is not merely instrumental but is itself a form of discovery. Within the humanities, scholarly value is too often measured by the final product—the monograph, the journal article—rather than the generative process that underlies these forms. Videographic criticism foregrounds this process, emphasizing the role of intuition, experimentation, and methodological innovation. As videographic scholar, Jason Mittel has argued, strong videographic work rarely begins with fixed theses imposed upon materials; rather, it evolves through the iterative practices of cutting, juxtaposing, layering, and reordering archival content. These interventions enable scholars to perceive and interpret historical materials differently, uncovering obscured meanings and affective resonances that traditional methodologies might overlook.<cite id="a402c"><a href="#zotero%7C88888888%2FMITTELL2019">(Mittell, 2019)</a></cite>\ In the case of the 1939 New York World's Fair, the methodology of videographic criticism has proven especially fruitful. The Fair, with its futuristic urban designs and spectacle-driven displays, was a formative event in shaping mid-century visions of progress and modernity. By synthesizing a range of primary sources into a cohesive yet experimental audiovisual form, the video essay foregrounds both the utopian aspirations and the long-lasting effects of the Fair on urban planning and cultural imagination. In doing so, it positions the archive not as a static repository, but as a living site of reanimation, recontextualization, and critical reflection.
 <!-- #endregion -->
-
-## Code
-
-```python editable=true slideshow={"slide_type": ""}
-# Check your Python version
-from platform import python_version
-python_version()
-
-#!python -V
-```
-
-```python editable=true slideshow={"slide_type": ""}
-# pandas package needs to be added to the requirements.txt 's file 
-import pandas as pd
-
-```
-
-```python editable=true slideshow={"slide_type": ""}
-df = pd.read_csv("https://raw.githubusercontent.com/lux-org/lux-datasets/master/data/college.csv")
-df
-```
 
 ## Notes
 
