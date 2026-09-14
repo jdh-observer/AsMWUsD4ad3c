@@ -59,14 +59,25 @@ The NYWF, which opened on April 30, 1939, marked a pivotal departure from the re
 The Fair itself served as a microcosm of the ambitious regional development projects reshaping New York City in the 1930s. As historian Kara Schlichting has argued in *New York Recentered*, the construction of the Fair embodied the ideal of man imposing order upon nature—a vision that aligned with the larger theme of the Fair as a blueprint for the "City of Tomorrow."<cite id="7c057"><a href="#zotero%7C88888888%2FSCHLICHTING2019">(Schlichting, 2019)</a></cite><sup>[5]</sup> In this vision, the future would be urban, organized, and underpinned by the ideals of American capitalism, liberty, and progress. It was a persuasive attempt to reposition technology—not as the root cause of economic hardship and job loss, as many Americans had come to believe during the Depression—but as the key to national rejuvenation.<cite id="7362d"><a href="#zotero%7C88888888%2FGANDY2003">(Gandy, 2003)</a></cite>\ This ideological and physical transformation was reflected in the Fair's most iconic exhibits—*Democracity, The City, and Futurama*—which collectively envisioned a planned, harmonious, and technologically advanced urban future. Through these displays, the Fair's organizers articulated a powerful narrative of a futurist utopian city, showcasing how peripheral land, once discarded, could be reclaimed and repurposed through expert planning and cooperation between public and private sectors. These exhibits served as more than entertainment; they were pedagogical tools meant to persuade Americans—and international visitors—of the superiority and universality of the American model. In doing so, the NYWF anticipated what Henry Luce would later call "The American Century," positioning the United States as the architect of a global future grounded in democratic capitalism and technological mastery.<cite id="548b5"><a href="#zotero%7C88888888%2FOLIVA2022">(Luce, 1941; Oliva, 2022)</a></cite>
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"179a5": [{"id": "88888888/PINDER2002", "source": "zotero"}, {"id": "88888888/GANJAVIE2014", "source": "zotero"}], "18553": [{"id": "88888888/CALVINO1972", "source": "zotero"}, {"id": "88888888/PINDER2002", "source": "zotero"}], "1b66b": [{"id": "88888888/CALVINO1972", "source": "zotero"}], "35e4e": [{"id": "88888888/HARDY2000", "source": "zotero"}, {"id": "88888888/MUMFORD1922", "source": "zotero"}, {"id": "88888888/HALL1988", "source": "zotero"}], "8474f": [{"id": "88888888/PINDER2002", "source": "zotero"}, {"id": "88888888/MASSEY2000", "source": "zotero"}], "cabe4": [{"id": "88888888/ROBINS1991", "source": "zotero"}], "e92ef": [{"id": "88888888/WELLS1899", "source": "zotero"}, {"id": "88888888/WELLS1905", "source": "zotero"}, {"id": "88888888/HARDY2000", "source": "zotero"}], "f7132": [{"id": "88888888/HOWARD1898", "source": "zotero"}, {"id": "88888888/HARDY2000", "source": "zotero"}, {"id": "88888888/BEEVERS1988", "source": "zotero"}, {"id": "88888888/WARD1992", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"18553": [{"id": "88888888/CALVINO1972", "source": "zotero"}, {"id": "88888888/PINDER2002", "source": "zotero"}], "179a5": [{"id": "88888888/PINDER2002", "source": "zotero"}, {"id": "88888888/GANJAVIE2014", "source": "zotero"}], "1b66b": [{"id": "88888888/CALVINO1972", "source": "zotero"}], "35e4e": [{"id": "88888888/HARDY2000", "source": "zotero"}, {"id": "88888888/MUMFORD1922", "source": "zotero"}, {"id": "88888888/HALL1988", "source": "zotero"}], "8474f": [{"id": "88888888/PINDER2002", "source": "zotero"}, {"id": "88888888/MASSEY2000", "source": "zotero"}], "cabe4": [{"id": "88888888/ROBINS1991", "source": "zotero"}], "e92ef": [{"id": "88888888/WELLS1899", "source": "zotero"}, {"id": "88888888/WELLS1905", "source": "zotero"}, {"id": "88888888/HARDY2000", "source": "zotero"}], "f7132": [{"id": "88888888/HOWARD1898", "source": "zotero"}, {"id": "88888888/HARDY2000", "source": "zotero"}, {"id": "88888888/BEEVERS1988", "source": "zotero"}, {"id": "88888888/WARD1992", "source": "zotero"}]}} -->
 The historiography of urban planning and utopianism provides essential context for understanding the Fair's significance and the cultural and intellectual forces that have shaped modern urban environments more broadly. Throughout history, the city has served as both a canvas for utopian aspirations and a site of dystopian anxiety—embodying a paradoxical duality that continues to structure contemporary urban imaginations. This tension remains central to how cities are conceptualized and experienced, oscillating between dreams of an idealized future and fears rooted in social disintegration and spatial disorder.<cite id="8474f"><a href="#zotero%7C88888888%2FPINDER2002">(Massey, 2000; Pinder, 2002)</a></cite>\ Italo Calvino succinctly captured this duality in *Le Citta' Invisibili* (*Invisible Cities*), writing that "cities, like dreams, are made of desires and fears."<cite id="1b66b"><a href="#zotero%7C88888888%2FCALVINO1972">(Calvino, 1972)</a></cite> His observation underscored a foundational principle of urban geography: cities are never merely physical constructs, but also imagined spaces shaped by collective and individual desires, unconscious longings, and social anxieties. These urban imaginaries hold profound political and cultural significance, influencing not only how cities are perceived and represented but also how they are planned, governed, and lived.<cite id="18553"><a href="#zotero%7C88888888%2FCALVINO1972">(Calvino, 1972; Pinder, 2002)</a></cite> As Kevin Robins has argued, the "imaginary institution of the city" establishes the cognitive and aesthetic frameworks that define what urban life can or should be at any given historical moment. However, Robin also contends that this urban imaginary is currently in crisis—a reflection, perhaps, of a broader disillusionment with utopian thinking in the wake of modernism's perceived decline.<cite id="cabe4"><a href="#zotero%7C88888888%2FROBINS1991">(Robins, 1991)</a></cite>\ Indeed, as scholars David Pinder and Amir Ganjavie have noted, discussions about the exhaustion of utopian visions are frequently situated within critiques of modernist architecture and planning. This narrative often casts modernism as a once-radical movement whose grand designs were ultimately undermined by political shifts, economic constraints, and mounting ideological scepticism. The modernist dream of reshaping cities to foster social progress is thus framed as a tragic arc—from visionary beginnings to disappointing outcomes. Yet, despite these critiques, utopian thought has remained a persistent and generative force in the field of urban planning. Across different historical contexts, idealized visions of the city have inspired bold, transformative projects, offering both practical models and aspirational goals for urban reformers, architects, and policymakers.<cite id="179a5"><a href="#zotero%7C88888888%2FPINDER2002">(Ganjavie, 2014; Pinder, 2002)</a></cite>\ At the dawn of the twentieth century, utopian thinkers such as H.G. Wells and the Italian Futurists offered notable alternatives to prevailing urban pessimism. Though differing in their ideological commitments, both emphasized that urban form must be understood in relation to broader social transformations. Wells, in particular, merged speculative fiction with socialist critique to articulate an urban future shaped by technological advancement and centralized control. In *The Sleeper Awakes*, he envisioned a hyper-urbanized London of 33 million inhabitants, dominated by monumental infrastructure and governed by technocratic efficiency. Similarly, in *A Modern Utopia*, Wells stressed the necessity of integrated transport networks and envisioned global order enabled by scientific progress. For Wells, urban reform could not be disentangled from the reorganization of society itself.<cite id="e92ef"><a href="#zotero%7C88888888%2FWELLS1899">(Hardy, 2000; Wells, 1899, 1905)</a></cite>\ Parallel to these speculative visions, the garden city movement emerged in England at the turn of the century as a more grounded yet equally utopian response to the challenges of industrial urbanism. Initiated by Ebenezer Howard, the movement combined romanticized visions of a rural past with practical strategies for urban decentralization. In his influential 1898 treatise *To-Morrow: A Peaceful Path to Real Reform*, Howard proposed the creation of community-owned, self-contained settlements that would blend the benefits of town and country life. Although rooted in utopian ideals, Howard framed his proposals in pragmatic terms to appeal to policymakers and the broader public. His approach envisioned a gradual restructuring of urban space through the establishment of planned, cooperative communities—a vision that resonated particularly in Britain, where the absence of a peasant proprietorship had long fuelled desires to reconnect people with the land.<cite id="f7132"><a href="#zotero%7C88888888%2FHOWARD1898">(Beevers, 1988; Hardy, 2000; Howard, 1898; Ward, 1992)</a></cite>\ Howard's ideas left a lasting impact on both the theory and practice of urban planning. Scholars such as Lewis Mumford, who was a member of the NYWF's theme committee, and Peter Hall emphasized that the garden city model was not merely a spatial or architectural concept but a mechanism for comprehensive social reform. Hall, in particular, noted that Howard's vision sought to reorganize capitalist society into a federated network of cooperative communities, thus linking urban design with larger questions of economic justice and civic participation.<cite id="35e4e"><a href="#zotero%7C88888888%2FHARDY2000">(Hall, 1988; Hardy, 2000; Mumford, 1922)</a></cite>
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["The Theme of the Fair, New York Public Library Digital Collection."], "type": "image"}} tags=["figure-theme-fair-*"] -->
-![figure](media/placeholder.png)
-*Fig. 1. The Theme of the Fair, New York Public Library Digital Collection. (video essay, 02.50)*
-<!-- #endregion -->
+```python jdh={"module": "object", "object": {"source": ["The Theme of the Fair, New York Public Library Digital Collection."], "type": "image"}} tags=["figure-theme-fair-*"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                " The Theme of the Fair, New York Public Library Digital Collection. (video essay, 02.50)."
+            ]
+        }
+    }
+}
+display(Image("./media/figure_2.png"), metadata=metadata)
+```
 
 <!-- #region citation-manager={"citations": {"9b960": [{"id": "88888888/OWEN1991", "source": "zotero"}, {"id": "88888888/MORE2012", "source": "zotero"}, {"id": "88888888/MEYERSON1961", "source": "zotero"}], "e4aa4": [{"id": "88888888/BELLAMY1889", "source": "zotero"}, {"id": "88888888/ADAMSON2024", "source": "zotero"}]}} -->
 While British and European contexts gave rise to institutionalized forms of utopian urbanism, the United States experienced its own surge of utopian thought during the late nineteenth century. The 1890s, in particular, witnessed an unprecedented boom in utopian literature, largely catalysed by the popularity of Edward Bellamy's *Looking Backward*. Selling over a million copies, Bellamy's novel envisioned a technologically advanced, egalitarian society characterized by abundance, rational order, and social harmony. His work inspired a wave of imitative novels and the formation of nationalist clubs dedicated to enacting his vision. American literary utopias of the period typically framed social problems in economic terms, expressing a belief that technological innovation and expert management could eliminate poverty and inefficiency.<cite id="e4aa4"><a href="#zotero%7C88888888%2FBELLAMY1889">(Adamson, 2024; Bellamy, 1889)</a></cite> Yet Bellamy's utopia was not without its tensions. While it promised material security and leisure, it also posited a rigid, highly controlled social order. Echoing earlier thinkers like Robert Owen and Thomas More, Bellamy viewed utopia as attainable only through collective labour and disciplined social participation. His vision, though deeply optimistic about the possibilities of progress, also reflected an anxiety about individual freedom and the homogenizing effects of technocratic rule.<cite id="9b960"><a href="#zotero%7C88888888%2FOWEN1991">(Meyerson, 1961; More, 2012; Owen, 1991)</a></cite>
@@ -80,10 +91,21 @@ The inflexibility that characterized numerous initial mechanized ideal societies
 Le Corbusier's vision was one of a centralized, highly organized urban environment built for speed and efficiency. His plan, intended for Paris or any major metropolis, featured twenty-four skyscrapers of sixty stories, each serving commercial functions, surrounded by expansive parks and cultural amenities. Residential zones were composed of high-rise apartments with private gardens, while a smaller number of individual homes were set apart in clusters. Streets were built on three levels to accommodate traffic flows at different speeds, and land use was carefully zoned to maximize both density and liveability. Le Corbusier's city functioned as a machine for living, aimed at ensuring universal access to light, greenery, space, silence, and beauty.<cite id="a7aa8"><a href="#zotero%7C88888888%2FLECORBUSIER2010">(Le Corbusier, 2010)</a></cite>\ In contrast, Frank Lloyd Wright envisioned a decentralized utopia. His Broadacre City and writings on *Usonia* presented a rural-urban hybrid in which each family lived on an acre of land, cultivated their own food, and commuted only occasionally to distant places of work. Cultural institutions were scaled proportionally to the small, dispersed communities and connected by an automotive transport network.<cite id="b3be2"><a href="#zotero%7C88888888%2FMEYERSON1961">(Meyerson, 1961)</a></cite>\ Together, these various strands of urban utopianism—from Wells's speculative urban futures and Howard's garden cities to Bellamy's rationalized economic order—reveal the enduring power of the city as a site of imaginative projection. They also underscore the political and cultural stakes of urban design. Whether cast in visionary or practical terms, urban utopias offer more than aesthetic or technical models; they constitute frameworks for thinking about what kind of society we wish to build, and what role the city plays in that collective aspiration.
 <!-- #endregion -->
 
-<!-- #region tags=["figure-2"] -->
-![figure](media/placeholder.png)
-*Fig. 2. The Trylon and the Perisphere. (video essay, 04:46.)*
-<!-- #endregion -->
+```python tags=["figure-trylon-*"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                " The Trylon and the Perisphere. (video essay, 04:46.)."
+            ]
+        }
+    }
+}
+display(Image(".media/figure_4.png"), metadata=metadata)
+```
 
 <!-- #region citation-manager={"citations": {"eafce": [{"id": "88888888/OLIVA2022", "source": "zotero"}, {"id": "88888888/SCHLICHTING2019", "source": "zotero"}, {"id": "88888888/APPELBAUM1977", "source": "zotero"}, {"id": "88888888/ZIM1988", "source": "zotero"}]}} -->
 The New York World's Fair represented an ambitious venture in modernist architecture, encapsulating the key dynamics behind New York City's sweeping transformation during the 1930s. Its design was segmented into seven distinct thematic areas: entertainment, communication, civic life, cuisine, governance, manufacturing and logistics, and mobility. By employing zoning terminology, the event's organizers mirrored the era's prevailing planning ideologies, which emphasized methodical land management. This dedication to systematic urban and ecological design was also evident in the Fair's most celebrated displays—*Democracity, The City*, and *Futurama*—which illustrated industrial designers' hopeful projections of an orderly, technologically enhanced world to come.<cite id="eafce"><a href="#zotero%7C88888888%2FOLIVA2022">(Appelbaum, 1977; Oliva, 2022; Schlichting, 2019; Zim, 1988)</a></cite>
@@ -95,10 +117,21 @@ At the center of the Fair's park were the Trylon, a 600-foot obelisk, and the Pe
 
 Dreyfuss' *Democracity* featured high-speed parkways, enabling residents to live in small towns outside the city center. The program explicitly criticized past urban growth, envisioning a future where cities were "no longer a planless jumble of slums and grime and smoke, but town and country joined for work and play in sunlight and good air."<sup>[23]</sup> The concept that *Democracity* especially wanted to communicate to the public was that of "interdependence", meaning mutually beneficial economic and social relationships among farmers, factory labourers and office workers. By realising interdependence, all people could live more harmoniously and, hopefully, put their collective energy behind progressive social and political programs.<sup>[24]</sup>
 
-<!-- #region tags=["figure-3"] -->
-![figure](media/placeholder.png)
-*Fig. 3. Message from the Fair's Guidebook and an Image of the Perisphere, New York Public Library Digital Collection. (video essay, 05:04.)*
-<!-- #endregion -->
+```python tags=["figure-fair-*"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                " Message from the Fair's Guidebook and an Image of the Perisphere, New York Public Library Digital Collection. (video essay, 05:04.)."
+            ]
+        }
+    }
+}
+display(Image("./media/figure_3.png"), metadata=metadata)
+```
 
 Once inside the Perisphere, from two rotating balconies, called "Magic Carpets", fairgoers could watch one of the most spectacular attractions of the Fair. The 6 minutes show, which included lights and music, depicted 11,000 square miles of land, populated by 1.5 m people who lived in various communities. "Centerton" was the business, education and social hub, accommodating 250,000 commuters during the day. Surrounding it were "Pleasantvilles", residential suburbs housing 10,000 people each. Beyond the suburbs lay industrial towns of about 25,000 residents called "Millvilles" and assorted small towns.<sup>[25]</sup>
 
@@ -106,10 +139,21 @@ Once inside the Perisphere, from two rotating balconies, called "Magic Carpets",
 After visiting *Democracity* fair goers were invited to watch the film *The City*. This traced the country's progression from its rural beginnings to contemporary urbanism. Lewis Mumford wrote the narration for the film which suggested regional planning as a solution to the congestion and chaos of the city.<sup>[26]</sup> The film unfolds in a chronological narrative, moving through a series of symbolic American landscapes. It opens in New England, portraying a quiet, rural 18th-century community. It then transitions to the industrial sprawl of Pittsburgh. From there, it shifts to the towering density of Manhattan, labeled "Men into Steel." Next comes the image of the endless city — a commentary on urban sprawl shown through congested Sunday highways in New York and New Jersey. Finally, the film arrives at the "Green City," represented by planned communities like Greenbelt, Maryland, and Redburn, New Jersey — Greenbelt being a recent product of New Deal planning.<cite id="1e8dc"><a href="#zotero%7C88888888%2FMCLANE2012">(McLane, 2012)</a></cite>
 <!-- #endregion -->
 
-<!-- #region tags=["figure-4"] -->
-![figure](media/placeholder.png)
-*Fig. 4. Split Screenshot comparing scenes from the City. (video essay, 08:36)*
-<!-- #endregion -->
+```python tags=["figure-scenes-city-*"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                "Split Screenshot comparing scenes from the City. (video essay, 08:36)."
+            ]
+        }
+    }
+}
+display(Image("./media/figure_5.png"), metadata=metadata)
+```
 
 At its core, the documentary celebrates America's pastoral heritage while offering a pointed critique of urban modernity. It suggests that a truly good life cannot be built solely on mechanization, cars, and vast infrastructure. Instead, it proposes a revival of community-centered urban planning, inspired by the garden city ideals of Ebenezer Howard, where health and social harmony are foregrounded. Yet, as film scholar, Kyle Westphal has argued, this vision of a return to nature is deeply romanticized. The better life imagined in the film lies far from the urban chaos — and, implicitly, far from the city's marginalized populations: minorities, immigrants, the poor, and the addicted. This ideal points not to urban reform, but to suburban escape. Embedded in this narrative are the early roots of suburban expansion, urban renewal policies, and the white flight that would shape the American postwar landscape. Ironically, the film overlooks a key contradiction: escaping the city still demands the very infrastructure — highways, cars, sprawl — it critiques.<sup>[28]</sup>
 
@@ -121,10 +165,21 @@ A parallel yet corporately sponsored vision of the future appeared in General Mo
 As argued by Fotsch*, Futurama* presented a technological solution to social instability, suggesting that engineers and planners should operate beyond public control. It also assumed that large-scale federal investment in highway construction—driving increased consumption—was the key to revitalizing the economy. The popularity of the *Futurama* exhibit aligned closely with the Fair's overarching theme, "The World of Tomorrow." Beyond its focus on the future, it also envisioned a complete redesign of the American landscape.<cite id="da369"><a href="#zotero%7C88888888%2FFOTSCH2001">(Fotsch, 2001)</a></cite>
 <!-- #endregion -->
 
-<!-- #region tags=["figure-5"] -->
-![figure](media/placeholder.png)
-*Fig. 5. Split Screenshot of The Futurama Exhibition. (video essay, 09:31)*
-<!-- #endregion -->
+```python tags=["figure-futurama-*"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                "Split Screenshot of The Futurama Exhibition. (video essay, 09:31)."
+            ]
+        }
+    }
+}
+display(Image("./media/figure_6.png"), metadata=metadata)
+```
 
 These exhibits rejected the uncoordinated, piecemeal development that had long characterized the urban peripheries of American cities. In their futures, chaotic urban expansion was a relic of the past. Both Geddes' and Dreyfuss' exhibits share many similarities with Lewis Mumford's ideas. Like Mumford, they advocated for moving away from what they saw as the overcrowded and unhealthy conditions of the city. However, they argued that suburban development, rather than offering a true alternative, often replicated urban chaos due to a lack of proper planning.
 
@@ -147,10 +202,21 @@ History, at its most compelling, is an exercise in empathy. It requires scholars
 The video essay, particularly what Kreutzer and Stiassy term "digital excavation," marks a significant advance within this emerging sensorial turn.<cite id="b4494"><a href="#zotero%7C88888888%2FKREUTZER2022">(Kreutzer, 2022)</a></cite> Like the material and visual turns before it, this new orientation emphasizes the embodied and affective dimensions of historical engagement. Through digital manipulation—dynamic zooms, split screens, asynchronous audio, and more—the video essay constructs an immersive interpretive framework that transcends the linear constraints of prose. Through an engagement with a wide range of archival sources, including photographs, maps, official documents, and moving images, the video essay reconstructs historical narratives while allowing for new interpretations and critical engagements with the past. This approach is aligned with Catherine Russell's concept of *archiveology,* wherein the reuse and appropriation of archival materials open new pathways to accessing and reshaping historical memory.<cite id="a3187"><a href="#zotero%7C88888888%2FRUSSELL2018">(Russell, 2018)</a></cite> By curating fragments of the past in novel audiovisual forms, the essay challenges traditional modes of historical documentation, transforming static records into dynamic experiences.
 <!-- #endregion -->
 
-<!-- #region tags=["figure-6"] -->
-![figure](media/placeholder.png)
-*Fig. 6. Split Screenshot comparing from left to right: the Futurama, The City and Democracity. (video essay, 10.06)*
-<!-- #endregion -->
+```python tags=["figure-6"] vscode={"languageId": "plaintext"}
+from IPython.display import Image 
+metadata={
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type":"image",
+            "source": [
+                "Split Screenshot comparing from left to right: the Futurama, The City and Democracity. (video essay, 10.06)."
+            ]
+        }
+    }
+}
+display(Image("./media/figure_7.png"), metadata=metadata)
+```
 
 <!-- #region citation-manager={"citations": {"36106": [{"id": "88888888/DERRIDA1996", "source": "zotero"}], "387b1": [{"id": "88888888/RUSSELL2018", "source": "zotero"}]}} -->
 Importantly, the digital nature of the video essay contests Jacques Derrida's notion that archival collection inherently removes historical material from present circulation.<cite id="36106"><a href="#zotero%7C88888888%2FDERRIDA1996">(Derrida, 1996)</a></cite> As an *archiveological* tool, the video essay resists this archival detachment by integrating historiographic analysis with poetic reflection. It constructs a collage of images and sounds that retains the immediacy and tactility of digital media, thereby maintaining a living connection to its source material. This method enables the video maker to engage dynamically with archival records, rendering a rich, multisensory historical narrative that revitalizes the archive.<cite id="387b1"><a href="#zotero%7C88888888%2FRUSSELL2018">(Russell, 2018)</a></cite>
