@@ -91,7 +91,7 @@ The inflexibility that characterized numerous initial mechanized ideal societies
 Le Corbusier's vision was one of a centralized, highly organized urban environment built for speed and efficiency. His plan, intended for Paris or any major metropolis, featured twenty-four skyscrapers of sixty stories, each serving commercial functions, surrounded by expansive parks and cultural amenities. Residential zones were composed of high-rise apartments with private gardens, while a smaller number of individual homes were set apart in clusters. Streets were built on three levels to accommodate traffic flows at different speeds, and land use was carefully zoned to maximize both density and liveability. Le Corbusier's city functioned as a machine for living, aimed at ensuring universal access to light, greenery, space, silence, and beauty.<cite id="a7aa8"><a href="#zotero%7C88888888%2FLECORBUSIER2010">(Le Corbusier, 2010)</a></cite>\ In contrast, Frank Lloyd Wright envisioned a decentralized utopia. His Broadacre City and writings on *Usonia* presented a rural-urban hybrid in which each family lived on an acre of land, cultivated their own food, and commuted only occasionally to distant places of work. Cultural institutions were scaled proportionally to the small, dispersed communities and connected by an automotive transport network.<cite id="b3be2"><a href="#zotero%7C88888888%2FMEYERSON1961">(Meyerson, 1961)</a></cite>\ Together, these various strands of urban utopianism—from Wells's speculative urban futures and Howard's garden cities to Bellamy's rationalized economic order—reveal the enduring power of the city as a site of imaginative projection. They also underscore the political and cultural stakes of urban design. Whether cast in visionary or practical terms, urban utopias offer more than aesthetic or technical models; they constitute frameworks for thinking about what kind of society we wish to build, and what role the city plays in that collective aspiration.
 <!-- #endregion -->
 
-```python tags=["figure-trylon-*"]
+```python jdh={"module": "object", "object": {"source": ["The Trylon and the Perisphere. (video essay, 04:46.)."], "type": "image"}} tags=["figure-trylon-*"]
 from IPython.display import Image 
 metadata={
     "jdh": {
@@ -117,7 +117,7 @@ At the center of the Fair's park were the Trylon, a 600-foot obelisk, and the Pe
 
 Dreyfuss' *Democracity* featured high-speed parkways, enabling residents to live in small towns outside the city center. The program explicitly criticized past urban growth, envisioning a future where cities were "no longer a planless jumble of slums and grime and smoke, but town and country joined for work and play in sunlight and good air."<sup>[23]</sup> The concept that *Democracity* especially wanted to communicate to the public was that of "interdependence", meaning mutually beneficial economic and social relationships among farmers, factory labourers and office workers. By realising interdependence, all people could live more harmoniously and, hopefully, put their collective energy behind progressive social and political programs.<sup>[24]</sup>
 
-```python tags=["figure-fair-*"]
+```python jdh={"module": "object", "object": {"source": [" Message from the Fair's Guidebook and an Image of the Perisphere, New York Public Library Digital Collection. (video essay, 05:04.)."], "type": "image"}} tags=["figure-fair-*"]
 from IPython.display import Image 
 metadata={
     "jdh": {
@@ -139,7 +139,7 @@ Once inside the Perisphere, from two rotating balconies, called "Magic Carpets",
 After visiting *Democracity* fair goers were invited to watch the film *The City*. This traced the country's progression from its rural beginnings to contemporary urbanism. Lewis Mumford wrote the narration for the film which suggested regional planning as a solution to the congestion and chaos of the city.<sup>[26]</sup> The film unfolds in a chronological narrative, moving through a series of symbolic American landscapes. It opens in New England, portraying a quiet, rural 18th-century community. It then transitions to the industrial sprawl of Pittsburgh. From there, it shifts to the towering density of Manhattan, labeled "Men into Steel." Next comes the image of the endless city — a commentary on urban sprawl shown through congested Sunday highways in New York and New Jersey. Finally, the film arrives at the "Green City," represented by planned communities like Greenbelt, Maryland, and Redburn, New Jersey — Greenbelt being a recent product of New Deal planning.<cite id="1e8dc"><a href="#zotero%7C88888888%2FMCLANE2012">(McLane, 2012)</a></cite>
 <!-- #endregion -->
 
-```python tags=["figure-scenes-city-*"]
+```python jdh={"module": "object", "object": {"source": ["Split Screenshot comparing scenes from the City. (video essay, 08:36)."], "type": "image"}} tags=["figure-scenes-city-*"]
 from IPython.display import Image 
 metadata={
     "jdh": {
@@ -165,7 +165,7 @@ A parallel yet corporately sponsored vision of the future appeared in General Mo
 As argued by Fotsch*, Futurama* presented a technological solution to social instability, suggesting that engineers and planners should operate beyond public control. It also assumed that large-scale federal investment in highway construction—driving increased consumption—was the key to revitalizing the economy. The popularity of the *Futurama* exhibit aligned closely with the Fair's overarching theme, "The World of Tomorrow." Beyond its focus on the future, it also envisioned a complete redesign of the American landscape.<cite id="da369"><a href="#zotero%7C88888888%2FFOTSCH2001">(Fotsch, 2001)</a></cite>
 <!-- #endregion -->
 
-```python tags=["figure-futurama-*"]
+```python jdh={"module": "object", "object": {"source": ["Split Screenshot of The Futurama Exhibition. (video essay, 09:31)."], "type": "image"}} tags=["figure-futurama-*"]
 from IPython.display import Image 
 metadata={
     "jdh": {
@@ -202,7 +202,7 @@ History, at its most compelling, is an exercise in empathy. It requires scholars
 The video essay, particularly what Kreutzer and Stiassy term "digital excavation," marks a significant advance within this emerging sensorial turn.<cite id="b4494"><a href="#zotero%7C88888888%2FKREUTZER2022">(Kreutzer, 2022)</a></cite> Like the material and visual turns before it, this new orientation emphasizes the embodied and affective dimensions of historical engagement. Through digital manipulation—dynamic zooms, split screens, asynchronous audio, and more—the video essay constructs an immersive interpretive framework that transcends the linear constraints of prose. Through an engagement with a wide range of archival sources, including photographs, maps, official documents, and moving images, the video essay reconstructs historical narratives while allowing for new interpretations and critical engagements with the past. This approach is aligned with Catherine Russell's concept of *archiveology,* wherein the reuse and appropriation of archival materials open new pathways to accessing and reshaping historical memory.<cite id="a3187"><a href="#zotero%7C88888888%2FRUSSELL2018">(Russell, 2018)</a></cite> By curating fragments of the past in novel audiovisual forms, the essay challenges traditional modes of historical documentation, transforming static records into dynamic experiences.
 <!-- #endregion -->
 
-```python tags=["figure-6"]
+```python jdh={"module": "object", "object": {"source": ["Split Screenshot comparing from left to right: the Futurama, The City and Democracity. (video essay, 10.06)."], "type": "image"}} tags=["figure-6"]
 from IPython.display import Image 
 metadata={
     "jdh": {
