@@ -94,17 +94,17 @@ Le Corbusier's vision was one of a centralized, highly organized urban environme
 ```python jdh={"module": "object", "object": {"source": ["The Trylon and the Perisphere. (video essay, 04:46.)."], "type": "image"}} tags=["figure-trylon-*"]
 from IPython.display import Image 
 metadata={
-    "jdh": {
-        "module": "object",
-        "object": {
-            "type":"image",
-            "source": [
-                " The Trylon and the Perisphere. (video essay, 04:46.)."
-            ]
-        }
-    }
+   "jdh": {
+           "module": "object",
+           "object": {
+               "type":"image",
+               "source": [
+                   " The Trylon and the Perisphere. (video essay, 04:46.)."
+               ]
+           }
+       }
 }
-display(Image(".media/figure_4.png"), metadata=metadata)
+display(Image("./media/figure_4.png"), metadata=metadata)
 ```
 
 <!-- #region citation-manager={"citations": {"eafce": [{"id": "88888888/OLIVA2022", "source": "zotero"}, {"id": "88888888/SCHLICHTING2019", "source": "zotero"}, {"id": "88888888/APPELBAUM1977", "source": "zotero"}, {"id": "88888888/ZIM1988", "source": "zotero"}]}} -->
