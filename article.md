@@ -28,8 +28,7 @@ University of Reading
 
 ```python tags=["cover"]
 from IPython.display import VimeoVideo
-display(VimeoVideo("1065468810?h=da976f44be", width=640))
-#url here https://vimeo.com/1065468810/da976f44be
+display(VimeoVideo("1065468810", width=640))
 ```
 
 <!-- #region tags=["keywords"] -->
